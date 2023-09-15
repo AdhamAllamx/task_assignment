@@ -1,3 +1,9 @@
+to start the project do npm install first to add the node modules 
+
+
+
+
+
 # Balance and Transactions API
 
 ## Intro
